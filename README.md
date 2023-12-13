@@ -2,4 +2,4 @@
 image save
 
 
-for https://pixabay.com/
+from https://pixabay.com/
